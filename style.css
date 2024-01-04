@@ -1,0 +1,61 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+body{
+    display: inline-block;
+    background: #0A0C1B;
+    margin: 12.5% 12.5%;
+    width: 1108px;
+    height: 445px;
+    border: 2px solid black;
+    border-radius: 15px;
+    position: relative;
+    top: auto;
+    left: auto;
+}
+
+.texto {
+    background: #1C1938;
+    width: 500px;
+    height: 355px;
+    padding: 4% 3%;
+    float: left;
+}
+
+.texto h1{
+    color: #fff;
+    padding: 3%;
+    font-size: 32px;
+}
+
+.texto h1 span{
+    color: #A958DB;
+}
+
+.texto p{
+    color: #9492AA;
+    padding: 3%;
+    font-size: 19.5px;
+}
+
+div ul li {
+    color: #fff;
+    padding: 15% 3% ;
+    display: inline-block;
+}
+
+div ul li span{
+    color:#9795AC;
+    display: inline-block;
+}
+
+div .imagen{
+    float: left;
+}
+
+
+
+
+
